@@ -1,0 +1,8 @@
+.titulo1{
+    display: flex;
+    justify-content: center;
+    font-family:inter ;
+    font-weight:700;
+    font-size:42px;
+    color: #107300;
+}
