@@ -6,11 +6,54 @@
     font-size:42px;
     color: #107300;
 }
+
 .imagem{
     display: block;
     margin: auto;
     height: 220px;
 }
-.mercearia{
-    
+
+.mercearia1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: ;
+}
+
+.açougue1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: ;
+}
+
+.higiene_pessoal1{
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: ;
+}
+
+.feira1{
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: ;
+}
+
+.produtos_de_limpeza{
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: ;
 }
